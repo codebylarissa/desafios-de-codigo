@@ -8,9 +8,6 @@ Este repositório contém as minhas resoluções de problemas e desafios de lóg
 
 | Desafio / Nome | Resolução em Java |
 | :--- | :---: |
-| `1001` - Extremamente Básico | [Java](./src/beecrowd/1001.java) |
-| `1002` - Área do Círculo | [Java](./src/beecrowd/1002.java) |
-| `1003` - Soma Simples | [Java](./src/beecrowd/1003.java) |
 
 ---
 
@@ -18,9 +15,6 @@ Este repositório contém as minhas resoluções de problemas e desafios de lóg
 
 | Desafio / Nome | Resolução em Java |
 | :--- | :---: |
-| Two Fer | [Java](./src/exercism/TwoFer.java) |
-| High Scores | [Java](./src/exercism/HighScores.java) |
-| Raindrops | [Java](./src/exercism/Raindrops.java) |
 
 ---
 
