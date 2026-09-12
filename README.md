@@ -4,20 +4,9 @@ Este repositório contém as minhas resoluções de problemas e desafios de lóg
 
 ---
 
-## 📁 Estrutura do Projeto
+## 📁 Resoluções
 
-Os arquivos de código estão organizados na pasta `src/` divididos por plataforma:
-
-```text
-desafios-de-codigo/
-├── src/
-│   ├── beecrowd/       
-│   └── exercism/       
-├── .gitignore
-└── README.md
-```
----
-## 🐝 Beecrowd
+### 🐝 Beecrowd
 
 | Desafio                                                  |               Resolução em Java               |
 |:---------------------------------------------------------|:---------------------------------------------:|
@@ -25,9 +14,8 @@ desafios-de-codigo/
 | [1397](https://judge.beecrowd.com/en/problems/view/1397) | [Código](src/beecrowd/GameOfTheGreatest.java) |
 | [1036](https://judge.beecrowd.com/en/problems/view/1036) | [Código](src/beecrowd/BhaskarasFormula.java)  |
 
----
 
-## 🧪 Exercism
+### 🧪 Exercism
 
 | Desafio                                                                                    |                Resolução em Java                 |
 |:-------------------------------------------------------------------------------------------|:------------------------------------------------:|
