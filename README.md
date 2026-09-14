@@ -34,6 +34,6 @@ Este repositório contém as minhas resoluções de problemas e desafios de lóg
 
 ---
 
-Feito por **Larissa** 👋  
+Feito com 💜 por **Larissa**   
 GitHub: [@codebylarissa](https://github.com/codebylarissa)
 
